@@ -1,0 +1,13 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.wst.server.ui,1.1.4.v20090128,org.eclipse.wst.server.stop,1370346466770
+activated,view,org.eclipse.ui.console,3.3.1.v20090128_r342,org.eclipse.ui.console.ConsoleView,1370346467161
+activated,view,org.eclipse.wst.server.ui,1.1.4.v20090128,org.eclipse.wst.server.ui.ServersView,1370346468130
+activated,view,org.eclipse.ui.console,3.3.1.v20090128_r342,org.eclipse.ui.console.ConsoleView,1370346468177
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1370346472273
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1370346474441
+started,bundle,org.eclipse.mylyn.resources.ui,3.0.5.v20090218-1800-e3x,org.eclipse.mylyn.resources.ui,1370346474472
+started,bundle,org.eclipse.mylyn.java.ui,3.0.5.v20090218-1800-e3x,org.eclipse.mylyn.java.ui,1370346474597
+started,bundle,org.eclipse.mylyn.pde.ui,3.0.5.v20090218-1800-e3x,org.eclipse.mylyn.pde.ui,1370346474645
+started,bundle,org.eclipse.mylyn.ide.ant,3.0.5.v20090218-1800-e3x,org.eclipse.mylyn.ide.ant,1370346474676
+closed,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1370346474723
+stopped,bundle,org.eclipse.jst.j2ee.xdoclet.runtime,1.1.102.v200805140135,org.eclipse.jst.j2ee.xdoclet.runtime,1370346475097
